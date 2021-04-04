@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hey, Andrew here
 
-<!--
-**RandomThings23/RandomThings23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Generic badge](https://img.shields.io/badge/certified-awesome-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/certified-cool-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/certified-content-red.svg)](https://shields.io/)
+
+<!-- Hello 👋 peekers, nothing to see here -->
+
+## I create stuff on the internet
+
+This is a dump for all my projects from my **YouTube channels**
+
+* [Random Things](https://www.youtube.com/channel/UCieXwVip1t-XrWOFiIKQT2w) - for Random content
+* [Make Things](https://www.youtube.com/channel/UC3gO05pjfpuLeYGhYoVV9FQ) - for making fun projects
+
+---
+
+Have fun and stay cool 
+
+\- Andrew
