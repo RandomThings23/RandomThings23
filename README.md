@@ -1,8 +1,8 @@
 ### 👋 Hey, Andrew here
 
+![banner](img/banner.gif)
 
-
-[![Generic badge](https://img.shields.io/badge/certified-awesome-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/certified-cool-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/certified-content-red.svg)](https://shields.io/)
+[![awesome, ](https://img.shields.io/badge/certified-awesome-<COLOR>.svg)](https://shields.io/) [![cool, ](https://img.shields.io/badge/certified-cool-blue.svg)](https://shields.io/) [![content!](https://img.shields.io/badge/certified-content-red.svg)](https://shields.io/)
 
 <!-- Hello 👋 peekers, nothing to see here -->
 
@@ -18,3 +18,6 @@ This is a dump for all my projects from my **YouTube channels**
 Have fun and stay cool 
 
 \- Andrew
+
+
+
